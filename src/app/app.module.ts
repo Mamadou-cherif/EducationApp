@@ -14,6 +14,7 @@ import { ReservationComponent } from './components/reservation/reservation.compo
 import { LocationComponent } from './components/location/location.component';
 import { HomeImageComponent } from './components/home-image/home-image.component';
 import { InscriptionComponent } from './components/inscription/inscription.component';
+import { NavigationComponent } from './components/navigation/navigation.component';
 
 
 @NgModule({
@@ -30,6 +31,7 @@ import { InscriptionComponent } from './components/inscription/inscription.compo
     LocationComponent,
     HomeImageComponent,
     InscriptionComponent,
+    NavigationComponent,
 
   ],
   imports: [
